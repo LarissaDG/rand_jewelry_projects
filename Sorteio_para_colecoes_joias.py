@@ -11,11 +11,11 @@ sexo = ['Masculino','Feminino','Unisex']
 
 miscelania = ['caixinha de música','bolsa/mochila','carteira','caneta','óculos','lenço']
 
-categoria_f = ['murano','brinco','earhook','tornozeleira','bangle','coquetel ring']
+categoria_f = ['murano','brinco','earhook','tornozeleira','bangle','coquetel ring','presilha de cabelo']
 
 categoria_m = ['abotuaduras','alfinete de gravata']
 
-categoria_u = ['relógio','colar','anel','bracelete','pingente','chain','broche']
+categoria_u = ['relógio','colar','anel','bracelete','pingente','chain','broche','coroa/tiara']
 
 def menu ():
 	print('''
